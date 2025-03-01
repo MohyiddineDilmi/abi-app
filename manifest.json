@@ -1,0 +1,32 @@
+{
+  "short_name": "ABI Invest",
+  "name": "ABI Invest | Investing in Tomorrow's Opportunities",
+  "description": "ABI Invest specializes in high-growth sectors with sustainable returns in Algeria, including real estate, agriculture, and auto parts.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#00F0FF",
+  "background_color": "#111927",
+  "orientation": "portrait",
+  "categories": ["business", "finance", "investment"],
+  "lang": "en",
+  "dir": "ltr",
+  "related_applications": [],
+  "prefer_related_applications": false
+}

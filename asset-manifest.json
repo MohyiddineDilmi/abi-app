@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/abi-app/static/css/main.ca3751fc.css",
+    "main.js": "/abi-app/static/js/main.f411010a.js",
+    "static/js/453.6aebdcf7.chunk.js": "/abi-app/static/js/453.6aebdcf7.chunk.js",
+    "static/media/abi_invest_with_name.svg": "/abi-app/static/media/abi_invest_with_name.0979ccf19c506b4d986df95cf2e1cc9a.svg",
+    "index.html": "/abi-app/index.html",
+    "main.ca3751fc.css.map": "/abi-app/static/css/main.ca3751fc.css.map",
+    "main.f411010a.js.map": "/abi-app/static/js/main.f411010a.js.map",
+    "453.6aebdcf7.chunk.js.map": "/abi-app/static/js/453.6aebdcf7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca3751fc.css",
+    "static/js/main.f411010a.js"
+  ]
+}
